@@ -18,6 +18,10 @@
   },
   "homepage": "https://github.com/giovanniKleinCampigoto/jwt-graphql-boilerplate#readme",
   "dependencies": {
+    "jsonwebtoken": "^8.5.1",
     "typeorm": "^0.2.25"
+  },
+  "devDependencies": {
+    "@types/jsonwebtoken": "^8.5.0"
   }
 }
