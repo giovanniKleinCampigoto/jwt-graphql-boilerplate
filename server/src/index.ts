@@ -13,6 +13,8 @@ import {UserResolver} from './UserResolver'
         res.send("hello")
     })
 
+    console.log('test')
+
     await createConnection();
 
     const apolloServer = new ApolloServer({
