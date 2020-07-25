@@ -1,6 +1,6 @@
-## JWT-GRAPHQL-BOILERPLATE
+# JWT-GRAPHQL-BOILERPLATE
 
-# A boilerplate to signing tokens and authentication using graphql
+### A boilerplate to signing tokens and authentication using graphql
 
 Following this tutorial: https://bit.ly/3hDYdgp
 
